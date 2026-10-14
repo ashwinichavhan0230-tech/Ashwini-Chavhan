@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashwini Chavhan</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966>
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ca9cba40-9c5b-4707-9f58-ef0937b3a886" />
 
 
 <>p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinichavhan0230-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinichavhan0230-tech" /> </p>
